@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Localize your app</string>
+
+
+    <string-array name="languages">
+        <item>Telugu</item>
+        <item>Hindi</item>
+        <item>Tamil</item>
+        <item>Malayalam</item>
+        <item>Kannada</item>
+
+    </string-array>
+</resources>

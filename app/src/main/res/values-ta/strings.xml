@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>தெலுங்கு</item>
+        <item>இந்தி</item>
+        <item>தமிழ்</item>
+        <item>மலையாளம்</item>
+        <item>கன்னடா</item>
+    </string-array>
+
+</resources>
